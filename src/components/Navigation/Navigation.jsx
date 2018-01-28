@@ -49,21 +49,21 @@ export default class Navigation extends Component {
             <div className={styles.socialMedia}>
               <span>
                 <a
-                  href="https://www.instagram.com/lekoarts.de"
+                  href=""
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   <FaInstagram />
                 </a>
                 <a
-                  href="https://www.behance.net/lekoarts"
+                  href=""
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   <FaBehance />
                 </a>
                 <a
-                  href="https://dribbble.com/LeKoArts"
+                  href=""
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -102,21 +102,21 @@ export default class Navigation extends Component {
               </Link>
               <div className={styles.mobileNavSocialMedia}>
                 <a
-                  href="https://www.instagram.com/lekoarts.de"
+                  href=""
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   <FaInstagram />
                 </a>
                 <a
-                  href="https://www.behance.net/lekoarts"
+                  href=""
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   <FaBehance />
                 </a>
                 <a
-                  href="https://dribbble.com/LeKoArts"
+                  href=""
                   target="_blank"
                   rel="noopener noreferrer"
                 >
